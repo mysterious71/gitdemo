@@ -1,3 +1,7 @@
 my first commit
 my second commit is here 
+<<AD
 I'm definatly keeping this..
+
+This line goes out to the rebel 
+>>>>>>> trouble
